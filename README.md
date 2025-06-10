@@ -1,10 +1,7 @@
 <h1 align="center">Hola 👋, soy Luis Andrés Martínez Cerrato</h1>
 <h3 align="center">👨‍💻 Ingeniero en Ciencias de la Computación | Desarrollador Full Stack | Apasionado por la tecnología</h3>
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/luis14mc/luis14mc/main/avatar_small.png" width="200" alt="avatar" />
 
-</p>
 
 ---
 
