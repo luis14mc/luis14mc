@@ -2,7 +2,8 @@
 <h3 align="center">👨‍💻 Ingeniero en Ciencias de la Computación | Desarrollador Full Stack | Apasionado por la tecnología</h3>
 
 <p align="center">
-   <img src="https://github.com/luis14mc/luis14mc/blob/main/avatar_small.png?raw=true" width="200" alt="avatar" />
+   <img src="https://raw.githubusercontent.com/luis14mc/luis14mc/main/avatar_small.png" width="200" alt="avatar" />
+
 </p>
 
 ---
@@ -28,9 +29,8 @@
 
 ### 📫 Contáctame
 - 📧 luismartinez.94mc@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/luismartinez)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/luis-martinez-399542225/)  
 - 💬 ¡Hablemos de proyectos, ideas o colaboraciones!
 
 ---
 
-<p align="center">Hecho con ❤️ por Luis Andrés Martínez Cerrato</p>
