@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Ingeniero en Ciencias de la Computación | Desarrollador Full Stack | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://github.com/luismartinez.94mc/luismartinez.94mc/blob/main/avatar.webp" width="200" alt="avatar" />
+  <img src="https://github.com/luismartinez.94mc/luismartinez.94mc/blob/main/avatar_small.png" width="200" alt="avatar" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Contáctame
-- 📧 luis.martinez@email.com  
+- 📧 luismartinez.94mc@gmail.com  
 - 🌐 [LinkedIn](https://linkedin.com/in/luismartinez)  
 - 💬 ¡Hablemos de proyectos, ideas o colaboraciones!
 
