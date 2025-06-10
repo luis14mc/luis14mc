@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Ingeniero en Ciencias de la Computación | Desarrollador Full Stack | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://github.com/luismartinez.94mc/luismartinez.94mc/blob/main/avatar_small.png" width="200" alt="avatar" />
+   <img src="https://github.com/luis14mc/luis14mc/blob/main/avatar_small.png?raw=true" width="200" alt="avatar" />
 </p>
 
 ---
