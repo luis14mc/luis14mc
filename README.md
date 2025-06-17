@@ -24,12 +24,6 @@
 
 ---
 
-### ⚡Actividad Reciente
- <!--RECENT_ACTIVITY:start-->
-  
- <!--RECENT_ACTIVITY:last_update-->
----
-
 ### 📫 Contáctame
 - 📧 luismartinez.94mc@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/luis-martinez-399542225/)  
